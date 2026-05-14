@@ -226,9 +226,9 @@ Press **Q** to quit. Each run creates a timestamped folder at `/workspace/run_YY
 ## 👥 Team
 
 - **[Khaled Ghanem](https://github.com/khaledghanem0)**
-- **[Eralp Erol](https://github.com/Username)**
-- **[Halit Özkaya](https://github.com/Username)**
-- **[Mustafa Ecevit](https://github.com/Username)**
+- **[Eralp Erol](https://github.com/EralpErol)**
+- **[Halit Özkaya](https://github.com/halitozkkaya)**
+- **[Mustafa Ecevit](https://github.com/me422-arch)**
 
 ## 📄 License
 
