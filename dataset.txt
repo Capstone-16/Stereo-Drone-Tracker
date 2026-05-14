@@ -1,0 +1,3 @@
+The dataset used for training YOLOv11s in this project is publically available on Roboflow Universe through the link:
+
+  https://universe.roboflow.com/senior-projectdrone-dataset/capstone-drone-detection-dataset

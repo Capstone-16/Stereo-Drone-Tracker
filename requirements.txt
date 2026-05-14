@@ -1,0 +1,22 @@
+# Stereo Drone Tracker — Python dependencies
+#
+# Install with:
+#   pip install -r requirements.txt
+#
+# ── Jetson-specific notes ──────────────────────────────────────────────────────
+#
+# torch / torchvision
+#   Do NOT install from PyPI on Jetson — the generic wheel has no GPU support.
+#   Install the official Jetson wheel FIRST, before running pip install here:
+#   https://developer.nvidia.com/embedded/downloads
+#
+# GStreamer Python bindings (gi / PyGObject)
+#   Not available via pip. Install via APT:
+#   sudo apt install python3-gi python3-gst-1.0 gstreamer1.0-tools
+#
+# ──────────────────────────────────────────────────────────────────────────────
+
+numpy>=1.21.0
+opencv-python>=4.8.0
+scipy>=1.10.0
+ultralytics>=8.3.0
