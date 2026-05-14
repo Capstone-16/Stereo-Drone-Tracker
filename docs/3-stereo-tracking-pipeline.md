@@ -22,6 +22,14 @@ Press **Q** to quit. Each run creates a timestamped output folder at `/workspace
 
 ---
 
+## Software Diagram
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ad5974ed-3d33-4eae-a9d2-5278dfa34397" alt="Software Pipeline Diagram" width="100%">
+</p>
+
+---
+
 ## Code Structure (top-to-bottom)
 
 ```
